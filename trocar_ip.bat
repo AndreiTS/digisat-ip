@@ -1,0 +1,2 @@
+.\digisat-ip.exe
+pause
