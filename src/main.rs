@@ -40,7 +40,7 @@ fn update_sistema(ip: &str) {
 
     let newip = format!("\t<Ip>{ip}</Ip>");
 
-    lines[68] = &newip;
+    lines[70] = &newip;
 
     let data = lines.join("\r\n");
 
